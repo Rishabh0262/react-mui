@@ -2,6 +2,53 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+## step 1 : [in its Parent Folder] 
+    `npx create-react-app react-mui-demo --template typescript`.
+
+## step 2 : npm start      or      yarn start
+    inside the project folder.
+
+
+
+## step 3 : Install Material UI package
+    `npm install @mui/material @emotion/react @emotion/styled`.
+
+    `yarn add @mui/material @emotion/react @emotion/styled`.
+
+@mui/material : Core Material Library whic provides us ready to use components.
+@emotion : Library, designed for writing CSS styled with JS.
+            & is the default styling solution used with version 5 of Material UI.
+
+
+
+## step 4 : created a 'components' folder 
+    in './src' folders, here all the .tsx files will be created.
+
+
+## step 5 : remove unnecessary codes from the App.tsx files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -102,6 +102,23 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
+*****************************************************************************************************************************
+
+#          Typography
+    it has 13 variants. We learnt about 10 main variants. Which is described in detail on the
+    MuiTypography.tsx component itself.
+
+
+
+*****************************************************************************************************************************
+
+#          Button
+
+    it has 3 main variants. 
+        text , contained , outlined
+
+    all the details have been explained in the "MuiButton.tsx"
+
 
 
 
